@@ -22,3 +22,15 @@ end
 def introdcution "Hi, my name is Josh #{name} and I am learning to program in #{English}
 end
 run test
+def introduction (Josh)
+  puts "My name is #{Josh}."
+end
+run tests
+def instroduction "Hi, my name #{Josh}" and I am learning to program in #{English}
+
+  puts "and I am learning to program in #{English}"
+end
+run test
+
+  run test
+  run tests
