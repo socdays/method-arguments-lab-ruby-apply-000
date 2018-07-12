@@ -14,6 +14,5 @@ def introduction_with_language (language)
 end
 puts "and I am learning to program in #{English}."
 end
-puts "Hi, my name is #{Josh}." "and I am learning to program in #{English}."
+puts "Hi, my name is #{Josh}."
 end
-
