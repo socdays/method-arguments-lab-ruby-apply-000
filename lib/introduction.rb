@@ -16,8 +16,4 @@ puts "and I am learning to program in #{English}."
 end
 puts "Hi, my name is #{Josh}." "and I am learning to program in #{English}."
 end
-run test
-ruby introduction.#!/usr/bin/env ruby -wKU
-end
-end of input
-run test
+
