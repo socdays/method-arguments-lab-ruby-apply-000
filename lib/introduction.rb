@@ -31,3 +31,4 @@ def introduction_with_language(language)
 end
 puts "and I am learning to program in #{English}."
 end
+run test
