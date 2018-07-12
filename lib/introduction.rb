@@ -19,3 +19,5 @@ end
 run test
 ruby introduction.#!/usr/bin/env ruby -wKU
 end
+end of input
+run test
