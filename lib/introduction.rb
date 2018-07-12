@@ -20,3 +20,6 @@ ruby introduction.#!/usr/bin/env ruby -wKU
 run test
 ```
 ```ruby
+#lib.introduction.rb
+def introduction(name)
+end
